@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/web3-horse-race-bet/static/css/main.e4acc382.css",
+    "main.js": "/web3-horse-race-bet/static/js/main.209bac1a.js",
+    "static/js/787.5c858e5b.chunk.js": "/web3-horse-race-bet/static/js/787.5c858e5b.chunk.js",
+    "index.html": "/web3-horse-race-bet/index.html",
+    "main.e4acc382.css.map": "/web3-horse-race-bet/static/css/main.e4acc382.css.map",
+    "main.209bac1a.js.map": "/web3-horse-race-bet/static/js/main.209bac1a.js.map",
+    "787.5c858e5b.chunk.js.map": "/web3-horse-race-bet/static/js/787.5c858e5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4acc382.css",
+    "static/js/main.209bac1a.js"
+  ]
+}
